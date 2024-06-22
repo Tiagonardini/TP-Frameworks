@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class Screen {
     private static final String CLASS_NAME_PROPERTY = "clase";
-    private static final String CONFIG_FILE_NAME_DEFAULT = "/config.properties";
+    private static final String CONFIG_FILE_NAME_DEFAULT = "/configuracion.properties";
     Text textAImprimir;
 
     public Screen() {
